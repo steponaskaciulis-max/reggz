@@ -16,7 +16,7 @@ export default function AboutPage() {
         >
           <h1 className="text-4xl md:text-6xl font-bold mb-6">About Reggz</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            We're more than just a clothing brand. We're a movement dedicated to quality, style, and authenticity.
+            We are more than just a clothing brand. We are a movement dedicated to quality, style, and authenticity.
           </p>
         </motion.div>
 
@@ -38,17 +38,17 @@ export default function AboutPage() {
             <h2 className="text-3xl font-bold mb-6">Our Story</h2>
             <p className="text-gray-700 leading-relaxed mb-4">
               Founded with a vision to revolutionize the fashion industry, Reggz was born from a simple belief:
-              everyone deserves access to premium quality clothing that doesn't compromise on style or sustainability.
+              everyone deserves access to premium quality clothing that does not compromise on style or sustainability.
             </p>
             <p className="text-gray-700 leading-relaxed mb-4">
-              What started as a small idea has grown into a brand that stands for something bigger. We're committed
-              to creating timeless pieces that you'll love for years to come, all while maintaining ethical production
+              What started as a small idea has grown into a brand that stands for something bigger. We are committed
+              to creating timeless pieces that you will love for years to come, all while maintaining ethical production
               practices and supporting sustainable fashion.
             </p>
             <p className="text-gray-700 leading-relaxed">
               Every garment in our collection is carefully designed and crafted to meet the highest standards of quality.
               We believe that great style is about feeling confident in what you wear, and that confidence comes from
-              knowing you're wearing something made with care and attention to detail.
+              knowing you are wearing something made with care and attention to detail.
             </p>
           </div>
         </motion.div>
@@ -67,7 +67,7 @@ export default function AboutPage() {
           <div className="text-center p-8 bg-gray-50 rounded-2xl">
             <div className="text-5xl mb-4">🌱</div>
             <h3 className="text-2xl font-bold mb-4">Sustainable Fashion</h3>
-            <p className="text-gray-600">We're committed to sustainable practices and ethical production. Fashion shouldn't cost the earth.</p>
+            <p className="text-gray-600">We are committed to sustainable practices and ethical production. Fashion should not cost the earth.</p>
           </div>
           <div className="text-center p-8 bg-gray-50 rounded-2xl">
             <div className="text-5xl mb-4">🎨</div>
@@ -85,7 +85,7 @@ export default function AboutPage() {
           <h2 className="text-4xl font-bold mb-6 text-center">Our Mission</h2>
           <p className="text-xl text-gray-300 text-center max-w-3xl mx-auto leading-relaxed">
             To empower individuals to express their unique style through high-quality, sustainable fashion that makes
-            them look and feel their best. We're building a brand that stands the test of time, both in quality and values.
+            them look and feel their best. We are building a brand that stands the test of time, both in quality and values.
           </p>
         </motion.div>
 
