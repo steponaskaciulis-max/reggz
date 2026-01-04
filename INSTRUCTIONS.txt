@@ -1,0 +1,20 @@
+﻿# Instructions to push files to GitHub
+
+Write-Host "Since Vercel is already connected to your GitHub repo, you need to:" -ForegroundColor Yellow
+Write-Host ""
+Write-Host "Method 1 - Using GitHub Desktop (Easiest):" -ForegroundColor Cyan
+Write-Host "1. Open GitHub Desktop" -ForegroundColor White
+Write-Host "2. File > Add Local Repository" -ForegroundColor White
+Write-Host "3. Browse to: C:\Users\stepo\Desktop\reggz-website" -ForegroundColor White
+Write-Host "4. If it's already added, you'll see the changes" -ForegroundColor White
+Write-Host "5. Enter commit message: 'Add all missing files'" -ForegroundColor White
+Write-Host "6. Click 'Commit to main'" -ForegroundColor White
+Write-Host "7. Click 'Push origin'" -ForegroundColor White
+Write-Host ""
+Write-Host "Method 2 - Manual Copy:" -ForegroundColor Cyan
+Write-Host "1. Find your GitHub repository folder (usually in Documents/GitHub or similar)" -ForegroundColor White
+Write-Host "2. Copy ALL files from: C:\Users\stepo\Desktop\reggz-website" -ForegroundColor White
+Write-Host "3. Paste them into your GitHub repository folder" -ForegroundColor White
+Write-Host "4. Use GitHub Desktop to commit and push" -ForegroundColor White
+Write-Host ""
+Write-Host "After pushing, Vercel will automatically redeploy!" -ForegroundColor Green
