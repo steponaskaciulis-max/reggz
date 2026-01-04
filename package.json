@@ -15,6 +15,7 @@
     "framer-motion": "^10.16.16"
   },
   "devDependencies": {
+    "@netlify/plugin-nextjs": "^4.39.0",
     "@types/node": "^20.11.5",
     "@types/react": "^18.2.48",
     "@types/react-dom": "^18.2.18",
